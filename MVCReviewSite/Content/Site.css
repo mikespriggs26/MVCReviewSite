@@ -4,11 +4,11 @@
     
 }
 .jumbotron {
-    background-image: url('../Images/jumbotron2.jpg');
+    background-image: url('../Images/jumbotron6.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    color:white;
+    color: white;
 }
 .indexPic{
     height: 300px;
@@ -16,6 +16,9 @@
 }
 .indexCol{
     text-align:center;
+}
+.bg-primary{
+    color: #dddddd;
 }
 
 /* Set padding to keep content from hitting the edges */

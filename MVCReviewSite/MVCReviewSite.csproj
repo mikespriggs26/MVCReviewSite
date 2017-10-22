@@ -199,6 +199,7 @@
     <None Include="Scripts\jquery-3.2.1.intellisense.js" />
     <Content Include="Images\jumbotron.jpg" />
     <Content Include="Images\jumbotron2.jpg" />
+    <Content Include="Images\jumbotron6.jpg" />
     <Content Include="Images\laptop.jpg" />
     <Content Include="Images\phone.jpg" />
     <Content Include="Images\tv.jpg" />
